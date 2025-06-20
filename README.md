@@ -8,11 +8,11 @@ SoldiCare is a modular system designed to monitor soldiers' health in real time,
 
 ## 👨‍🎓 Students
 
-- Sapir Gilany - 322358284
-- Idan Noyshul - 207813635
-- Roi Dor - 207813379
-- Itay Chabra - 208292458
-- Neta Ben Mordechai - 211451901
+- Itay Chabra
+- Neta Ben Mordechai
+- Sapir Gilany
+- Idan Noyshul
+- Roi Dor
 
 ## 🔖 Repository Structure
 
